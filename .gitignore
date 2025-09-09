@@ -1,0 +1,16 @@
+# Quartus generated
+db/
+incremental_db/
+output_files/
+*.sof
+*.pof
+*.qdb
+*.rpt
+
+# Optional
+*.vwf
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
